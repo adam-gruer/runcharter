@@ -1,5 +1,5 @@
 # nhscharts
-Automated  analysis and re-basing of  runcharts at scale. By NHS Analyst, for NHS Analysts and other QI professionals
+Automated  analysis and re-basing of  runcharts at scale.
 
 
 Run charts  and SPC charts are used extensively in quality improvement within the UK NHS.
