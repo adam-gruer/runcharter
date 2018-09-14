@@ -6,9 +6,11 @@ Run charts  and SPC charts are used extensively in quality improvement within th
 
 Run charts are simple to construct, and analyse using run chart rules.
 However over time, a signal of improvement may require a run-chart median to be rebased. 
+
+Rationale:
+
 The analysis and re-basing of improvement medians quickly becomes labour intensive as the QI programme evolves - and though enterprise level database software can be used to store the raw data, their associated reporting systems are usually ill suited to the task of analysing QI data using run chart rules or SPC rules.
 
-Similarly, SPC charts also require re-basing when certain signals of special cause variation are noted. 
 
 This package automatically creates rebased run charts, based on run chart rules commonly used in the UK healthcare.
 This can be a single chart, or faceted small multiples. 
